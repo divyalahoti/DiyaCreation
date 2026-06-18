@@ -18,7 +18,9 @@ const allowedOrigins = [
   'http://localhost:5174',
   "http://localhost:5000",
   "https://ato-z.vercel.app/",
-  "https://atoz-backend-kohl.vercel.app"
+  "https://atoz-backend-kohl.vercel.app",
+  "https://diya-creation-backend.vercel.app",
+  "https://diya-creation-frontend.vercel.app/"
 ];
 
 const corsOptions = {
